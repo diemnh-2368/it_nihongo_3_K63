@@ -4,3 +4,5 @@ def introduce(age)
 end
 #引数を渡してメソッドを呼び出す
 introduce(21)
+introduce(32)
+puts "bye"
